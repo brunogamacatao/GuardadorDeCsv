@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d93e6d3-1a6d-40c4-b89c-04206d2c823d" name="Default Changelist" comment="" />
+    <list default="true" id="1d93e6d3-1a6d-40c4-b89c-04206d2c823d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guardador/GuardadorDeCsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guardador/GuardadorDeCsv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guardador/teste/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guardador/teste/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guardador/teste/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guardador/teste/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,9 +18,13 @@
       <list>
         <option value="AnnotationType" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YiUo8oCZ3Oop8MqVwc94lMT3rJ" />
   <component name="ProjectViewState">
@@ -24,11 +34,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunManager" selected="Application.Main">
+    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guardador.util.Calculadora" />
+      <module name="GuardadorDeCsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guardador.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GuardadorDeCsv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="guardador.GuardadorDeCsv" />
       <module name="GuardadorDeCsv" />
@@ -55,9 +79,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guardador.util.Main2" />
+      <module name="GuardadorDeCsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guardador.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guardador.teste.Main3" />
+      <module name="GuardadorDeCsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guardador.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.GuardadorDeCsv" />
       </list>
     </recent_temporary>
@@ -70,6 +123,9 @@
       <option name="presentableId" value="Default" />
       <updated>1583425080169</updated>
       <workItem from="1583425082874" duration="4971000" />
+      <workItem from="1583450822253" duration="4555000" />
+      <workItem from="1583524247263" duration="88000" />
+      <workItem from="1583524624801" duration="1703000" />
     </task>
     <servers />
   </component>
@@ -77,57 +133,61 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="492" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1583427062733">
+    <state x="492" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1583526303319">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state x="492" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.734@0.0.1366.734" timestamp="1583427062733" />
-    <state width="1320" height="216" key="GridCell.Tab.0.bottom" timestamp="1583430054790">
+    <state x="492" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.734@0.0.1366.734" timestamp="1583526303319" />
+    <state width="1320" height="185" key="GridCell.Tab.0.bottom" timestamp="1583526361711">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state width="1320" height="216" key="GridCell.Tab.0.bottom/0.0.1366.734@0.0.1366.734" timestamp="1583430054790" />
-    <state width="1320" height="216" key="GridCell.Tab.0.center" timestamp="1583430054789">
+    <state width="1320" height="185" key="GridCell.Tab.0.bottom/0.0.1366.734@0.0.1366.734" timestamp="1583526361711" />
+    <state width="1320" height="185" key="GridCell.Tab.0.center" timestamp="1583526361710">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state width="1320" height="216" key="GridCell.Tab.0.center/0.0.1366.734@0.0.1366.734" timestamp="1583430054789" />
-    <state width="1320" height="216" key="GridCell.Tab.0.left" timestamp="1583430054789">
+    <state width="1320" height="185" key="GridCell.Tab.0.center/0.0.1366.734@0.0.1366.734" timestamp="1583526361710" />
+    <state width="1320" height="185" key="GridCell.Tab.0.left" timestamp="1583526361709">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state width="1320" height="216" key="GridCell.Tab.0.left/0.0.1366.734@0.0.1366.734" timestamp="1583430054789" />
-    <state width="1320" height="216" key="GridCell.Tab.0.right" timestamp="1583430054790">
+    <state width="1320" height="185" key="GridCell.Tab.0.left/0.0.1366.734@0.0.1366.734" timestamp="1583526361709" />
+    <state width="1320" height="185" key="GridCell.Tab.0.right" timestamp="1583526361710">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state width="1320" height="216" key="GridCell.Tab.0.right/0.0.1366.734@0.0.1366.734" timestamp="1583430054790" />
-    <state width="1320" height="216" key="GridCell.Tab.1.bottom" timestamp="1583430054792">
+    <state width="1320" height="185" key="GridCell.Tab.0.right/0.0.1366.734@0.0.1366.734" timestamp="1583526361710" />
+    <state width="1320" height="216" key="GridCell.Tab.1.bottom" timestamp="1583526029672">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state width="1320" height="216" key="GridCell.Tab.1.bottom/0.0.1366.734@0.0.1366.734" timestamp="1583430054792" />
-    <state width="1320" height="216" key="GridCell.Tab.1.center" timestamp="1583430054791">
+    <state width="1320" height="216" key="GridCell.Tab.1.bottom/0.0.1366.734@0.0.1366.734" timestamp="1583526029672" />
+    <state width="1320" height="216" key="GridCell.Tab.1.center" timestamp="1583526029669">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state width="1320" height="216" key="GridCell.Tab.1.center/0.0.1366.734@0.0.1366.734" timestamp="1583430054791" />
-    <state width="1320" height="216" key="GridCell.Tab.1.left" timestamp="1583430054791">
+    <state width="1320" height="216" key="GridCell.Tab.1.center/0.0.1366.734@0.0.1366.734" timestamp="1583526029669" />
+    <state width="1320" height="216" key="GridCell.Tab.1.left" timestamp="1583526029668">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state width="1320" height="216" key="GridCell.Tab.1.left/0.0.1366.734@0.0.1366.734" timestamp="1583430054791" />
-    <state width="1320" height="216" key="GridCell.Tab.1.right" timestamp="1583430054792">
+    <state width="1320" height="216" key="GridCell.Tab.1.left/0.0.1366.734@0.0.1366.734" timestamp="1583526029668" />
+    <state width="1320" height="216" key="GridCell.Tab.1.right" timestamp="1583526029671">
       <screen x="0" y="0" width="1366" height="734" />
     </state>
-    <state width="1320" height="216" key="GridCell.Tab.1.right/0.0.1366.734@0.0.1366.734" timestamp="1583430054792" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/guardador/annotations/Formatos.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/text/Format.class</url>
-          <line>29</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1320" height="216" key="GridCell.Tab.1.right/0.0.1366.734@0.0.1366.734" timestamp="1583526029671" />
+    <state x="501" y="302" key="ReplaceDuplicatesPrompt" timestamp="1583524821833">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="501" y="302" key="ReplaceDuplicatesPrompt/0.0.1366.734@0.0.1366.734" timestamp="1583524821833" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583452668177">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.734@0.0.1366.734" timestamp="1583452668177" />
+    <state x="417" y="117" width="532" height="503" key="extract.method.dialog" timestamp="1583524818591">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="417" y="117" width="532" height="503" key="extract.method.dialog/0.0.1366.734@0.0.1366.734" timestamp="1583524818591" />
+    <state x="58" y="0" width="1247" height="734" key="new project wizard" timestamp="1583524329300">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="58" y="0" width="1247" height="734" key="new project wizard/0.0.1366.734@0.0.1366.734" timestamp="1583524329300" />
+    <state x="346" y="55" width="672" height="678" key="search.everywhere.popup" timestamp="1583451997488">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="346" y="55" width="672" height="678" key="search.everywhere.popup/0.0.1366.734@0.0.1366.734" timestamp="1583451997488" />
   </component>
 </project>
